@@ -1,11 +1,11 @@
 ## Hi I Am Srilatha Nenavath 👋
 
 
-**Srilatha-Nenavath/Srilatha-Nenavath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-##Hi, I'm Srilatha Nenavath ! 👨‍💻
+## Hi, I'm Srilatha Nenavath ! 👨‍💻
 **🚀 Java Full-Stack Developer **| Passionate about creating scalable web applications.
 
 ## 🛠️ Skills & Tools
